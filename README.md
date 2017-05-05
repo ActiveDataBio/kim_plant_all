@@ -3,9 +3,9 @@
 <!--adbio-version-->
 [![Visit at https://adbio.pnnl.gov](https://adbio.pnnl.gov/bioviz/services/svg/version?ver=0.02)](https://adbio.pnnl.gov/bioviz/releasenotes.html#0.02)
 <!--adbio-title-->
-#PlantProjectTest
+# Plant project
 <!--adbio-description-->
-for testing
+all time points
 <!--adbio-organism-->
 ath
 <!--adbio-funding-->
